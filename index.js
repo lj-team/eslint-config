@@ -79,6 +79,7 @@ module.exports = {
     'angular/log': 0,
     'angular/timeout-service': 0,
     'angular/typecheck-array': 0,
+    'angular/typecheck-function': 0,
     'angular/typecheck-object': 0,
     'angular/typecheck-string': 0,
     'angular/window-service': 0
